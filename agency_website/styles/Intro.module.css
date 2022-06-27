@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    height: calc(100vh - 50px);
+
+    background-color: lightblue;
+
+    display: flex;
+}
+
+.card {
+    flex: 1;
+}
